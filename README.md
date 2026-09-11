@@ -1,8 +1,8 @@
-# Hello There! 👋
+# 贵安！ 👋
 
-Welcome to **xuanchengtaishou**'s GitHub Profile! I am passionate about coding and building cool things.
+这里是宣城太守的玩具仓库，随意逛逛吧
 
-## 📊 GitHub Stats & Languages
+## 📊 了解你的捍卫者
 
 <p align="center">
   <!-- 这里的 xuanchengtaishou 会自动替换成你的用户名 -->
@@ -13,18 +13,3 @@ Welcome to **xuanchengtaishou**'s GitHub Profile! I am passionate about coding a
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=xuanchengtaishou&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
-
-## 🛠️ Tech Stack & Tools
-
-- **Languages:** Python, JavaScript, C++ (根据你的实际情况修改)
-- **Frameworks:** React, Vue, Django (根据你的实际情况修改)
-- **Tools:** Git, Docker, Linux
-
-## 📫 How to reach me
-
-- 🌐 Website: [Your Website Link](https://yourwebsite.com)
-- 📧 Email: your_email@example.com
-- 💬 Discord: YourDiscordID#1234
-
----
-*Thanks for visiting!* 🚀
